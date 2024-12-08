@@ -1,6 +1,6 @@
 export function fetchImg(query) {
     const searchParams = new URLSearchParams({
-      key: '47193227-eb3ce661dcb56760e85b83cac',
+      key: '47528182-162bfe7fcf4c610415cc64ee7',
       q: query,
       image_type: 'photo',
       orientation: 'horizontal',
